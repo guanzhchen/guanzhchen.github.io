@@ -5,8 +5,8 @@ layout: page
 
 ### About Me
 
-I am a second-year master student at [Sun Yat-sen University](), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569).
-Previously, I completed my Bachelor's degree at [Chongqing University]() in 2021.
+I am a second-year master student at [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569).
+Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) in 2021.
 
 My ultimate research goal is to make machines speak and write like humans with knowledges.
 In particular, I am mainly interested in **language models** and **knowledge graphs**.
