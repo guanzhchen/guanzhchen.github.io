@@ -5,8 +5,8 @@ layout: page
 
 ### About Me
 
-I am a second-year master student at [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569).
-Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) in 2021.
+I am a second-year master student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569).
+Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021.
 
 My ultimate research goal is to make machines speak and write like humans with knowledges.
 In particular, I am mainly interested in **language models** and **knowledge graphs**.
@@ -48,6 +48,6 @@ Thirty-Sixth AAAI Conferene on Artificial Intelligence ([AAAI'22](https://aaai.o
 
 ### Services
 
-- Conference reviewer: [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22), [ACL Roling Review (Nov. 2022)](https://aclrollingreview.org/), [SIGIR 2022](https://sigir.org/sigir2022/)
+- Conference reviewer: [SIGIR 2023](https://sigir.org/sigir2023/) [IJCAI 2023](https://ijcai-23.org/) [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22), [ACL Roling Review (Nov. 2022)](https://aclrollingreview.org/), [SIGIR 2022](https://sigir.org/sigir2022/)
 
 - Journal reviewer: [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management)
