@@ -12,9 +12,9 @@ In particular, I am primarily working on
 
 - enhancing the long-context capability of LLMs;
 - utilising LLMs by parameter-efficient way;
-- exploring the scaling ability of linear RNN (state-space model)<br>
+- exploring the scaling ability of linear RNN (state-space model).<br>
 
-I also spend some time focusing on knowledge injection and verification for language models.
+I also spend some time focusing on knowledge injection and verification for LLMs.
 
 
 
