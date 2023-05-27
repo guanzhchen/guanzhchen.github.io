@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-I am a second-year master student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
+I am a second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
 Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021.
 
 My long-term research goal is to advance the field of NLP and make machines speak and write like humans with knowledge. Recently my research interests revolve around **large language models (LLMs)**, which comprises extremely large models (more than 100B, like GPT-3/4 series) and "smaller" counterparts (like LLaMA).
