@@ -23,10 +23,10 @@ email: guanzzh.chen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Guanzheng Chen's Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guanzhchen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://guanzhchen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-# port: 4567
+port: 4567
 # Build settings
 # theme: minimal-mistakes-jekyll
 plugins:
@@ -55,7 +55,7 @@ links:
   # - title: Hobbies
   #   url: /hobbies/
   - title: CV
-    url: /data/resume.pdf
+    url: /data/CV_Chen.pdf
 
 future: true
 highlighter: rouge
