@@ -19,15 +19,21 @@ I also spend some time focusing on knowledge injection and verification for LLMs
 
 
 ### News
+- ***Jan 2024:*** [CLEX](https://arxiv.org/pdf/2310.16450.pdf) has been accepted to ICLR 2024!
 - ***Oct 2023:*** We release the [CLEX](https://arxiv.org/pdf/2310.16450.pdf), a length extrapolation method that enables LLMs to access the context length up to 4x~8x the training length! [[Tweets](https://twitter.com/gzchen3/status/1717584594533511553)]
 - ***Jan 2023:*** My homepage was born. Welcome!
 
 
-### Preprint
+
+
+
+
+
+### Publications
 
 - [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/pdf/2310.16450.pdf)<br>
   **Guanzheng Chen**, Xin Li, Zaiqiao Meng, Shangsong Liang, Lidong Bing.<br>
- Arxiv preprint.
+ The Twelfth International Conference on Learning Representations ([ICLR'24](https://iclr.cc/), Poster)
   
   <div class="btn-links">
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2310.16450.pdf" target="_blank" rel="noopener">PDF</a>
@@ -35,9 +41,6 @@ I also spend some time focusing on knowledge injection and verification for LLMs
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://huggingface.co/spaces/DAMO-NLP-SG/CLEX-Chat" target="_blank" rel="noopener">Demo</a>
   </div>
 
-
-
-### Publications
 
 - [Revisiting Parameter-Efficient Tuning: Are We Really There Yet?](https://arxiv.org/abs/2202.07962)<br>
   **Guanzheng Chen**, Fangyu Liu, Zaiqiao Meng, Shangsong Liang.<br>
