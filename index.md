@@ -20,9 +20,9 @@ I also spend some time focusing on knowledge injection and verification for LLMs
 
 ### News
 - ***Feb 2025:*** We release the [LongPO](https://www.arxiv.org/pdf/2502.13922), a self-evolving long-context LLM training approach for both context extension and long-context alignment in one stage without external annotation.
-- ***Feb 2025:*** [CLEX](https://arxiv.org/pdf/2310.16450.pdf) has been accepted to ICLR 2025!
-- ***Jan 2024:*** [CLEX](https://arxiv.org/pdf/2310.16450.pdf) has been accepted to ICLR 2024!
-- ***Oct 2023:*** We release the [CLEX](https://arxiv.org/pdf/2310.16450.pdf), a length extrapolation method that enables LLMs to access the context length up to 4x~8x the training length! [[Tweets](https://twitter.com/gzchen3/status/1717584594533511553)]
+- ***Feb 2025:*** [LongPO](https://www.arxiv.org/pdf/2502.13922) has been accepted to ICLR 2025!
+- ***Jan 2024:*** [CLEX](https://arxiv.org/abs/2310.16450) has been accepted to ICLR 2024!
+- ***Oct 2023:*** We release the [CLEX](https://arxiv.org/abs/2310.16450), a length extrapolation method that enables LLMs to access the context length up to 4x~8x the training length! [[Tweets](https://twitter.com/gzchen3/status/1717584594533511553)]
 
 
 
