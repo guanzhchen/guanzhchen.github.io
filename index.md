@@ -10,7 +10,7 @@ Previously, I completed my Bachelor's degree at [Chongqing University](https://w
 
 My research is driven by the passion for advancing the edge intelligence of large language models (LLMs). I am particularly focused on the paradigm shift [from deep to long learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning), aiming to enhance LLM capabilities by learning effectively from substantial context. My recent work concentrates on improving LLMs' in-depth understanding of complex context, specifically targeting:
 
-- Effective and efficient long-context modeling through new architecture(s);
+- Effective and efficient long-context modeling;
 - Unified understanding of multimodal context
 
 
