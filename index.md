@@ -10,7 +10,7 @@ Previously, I completed my Bachelor's degree at [Chongqing University](https://w
 I am pursuing my passion for advancing the edge intelligence of large language models (LLMs).
 My research specifically focuses on enhancing LLMs' context understanding capabilities, covering
 
-- effective and efficient long-context modeling with new architecture;
+- effective and efficient long-context modeling with new architecture(s);
 - Unified multimodal context.
 
 
