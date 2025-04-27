@@ -4,11 +4,10 @@ layout: page
 
 ### About Me
 
-I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/)
+I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/).
 <!-- second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
 Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021. -->
 I am pursuing my passion for advancing the edge intelligence of large language models (LLMs).
-
 My research specifically focuses on enhancing LLMs' context understanding capabilities, covering
 
 - effective and efficient long-context modeling with new architecture;
