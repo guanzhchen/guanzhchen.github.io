@@ -49,6 +49,17 @@ My research specifically focuses on enhancing LLMs' context understanding capabi
   </div>
 
 
+- [VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)<br>
+ Sicong Leng, Hang Zhang, **Guanzheng Chen**, Xin Li, Shijian Lu, Chunyan Miao, Lidong Bing.<br>
+ The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 ([CVPR'24](https://cvpr.thecvf.com/Conferences/2024))
+  
+  <div class="btn-links">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2311.16922" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/DAMO-NLP-SG/VCD" target="_blank" rel="noopener">Code</a>
+  </div>
+
+
+
 - [CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/pdf/2310.16450.pdf)<br>
   **Guanzheng Chen**, Xin Li, Zaiqiao Meng, Shangsong Liang, Lidong Bing.<br>
  The Twelfth International Conference on Learning Representations ([ICLR'24](https://iclr.cc/))
