@@ -12,9 +12,7 @@ My research specifically focuses on enhancing LLMs' context understanding capabi
 
 - effective and efficient long-context modeling with new architecture;
 - Unified multimodal context.
-<!-- - exploring the scaling ability of linear RNN (state-space model).<br>
 
-I also spend some time focusing on knowledge injection and verification for LLMs. -->
 
 
 
