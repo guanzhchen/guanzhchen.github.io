@@ -7,11 +7,10 @@ layout: page
 I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/).
 <!-- second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
 Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021. -->
-
 My research is driven by the passion for advancing the edge intelligence of large language models (LLMs). I am particularly focused on the paradigm shift [from deep to long learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning), aiming to enhance LLM capabilities by learning effectively from substantial context. My recent work concentrates on improving LLMs' in-depth understanding of complex context, specifically targeting:
 
 - Effective and efficient long-context modeling;
-- Unified understanding of multimodal context
+- Unified understanding of multimodal context.
 
 
 
