@@ -4,17 +4,18 @@ layout: page
 
 ### About Me
 
-I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS). 
+I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/)
 <!-- second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
 Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021. -->
-My long-term research goal is to advance the field of NLP and make machines speak and write like humans with knowledge. Recently my research interests revolve around **large language models (LLMs)**, which comprises extremely large models (more than 100B, like GPT-3/4 series) and "smaller" counterparts (like LLaMA).
-In particular, I am primarily working on
+I am pursuing my passion for advancing the edge intelligence of large language models (LLMs).
 
-- enhancing the long-context capability of LLMs;
-- utilising LLMs by parameter-efficient way;
-- exploring the scaling ability of linear RNN (state-space model).<br>
+My research specifically focuses on enhancing LLMs' context understanding capabilities, covering
 
-I also spend some time focusing on knowledge injection and verification for LLMs.
+- effective and efficient long-context modeling with new architecture;
+- Unified multimodal context.
+<!-- - exploring the scaling ability of linear RNN (state-space model).<br>
+
+I also spend some time focusing on knowledge injection and verification for LLMs. -->
 
 
 
@@ -25,7 +26,16 @@ I also spend some time focusing on knowledge injection and verification for LLMs
 - ***Oct 2023:*** We release the [CLEX](https://arxiv.org/abs/2310.16450), a length extrapolation method that enables LLMs to access the context length up to 4x~8x the training length! [[Tweets](https://twitter.com/gzchen3/status/1717584594533511553)]
 
 
+### Preprint
 
+
+- [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
+  Guanzheng Chen*, Qilong Feng*, Jinjie Ni, Xin Li, Michael Qizhe Shieh
+  
+  <div class="btn-links">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/John-AI-Lab/RAPID" target="_blank" rel="noopener">Code</a>
+  </div>
 
 
 
@@ -72,6 +82,6 @@ I also spend some time focusing on knowledge injection and verification for LLMs
 
 ### Services
 
-- Conference reviewer: [SIGIR 2023](https://sigir.org/sigir2023/), [IJCAI 2023](https://ijcai-23.org/), [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), [SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22), [ACL Roling Review (Nov. 2022)](https://aclrollingreview.org/), [SIGIR 2022](https://sigir.org/sigir2022/)
+- Conference reviewer: [Neurips 2024](https://neurips.cc/Conferences/2024), [ICLR 2025](https://iclr.cc/), [ICML 2025](https://icml.cc/), [ACL Roling Review ](https://aclrollingreview.org/)
 
-- Journal reviewer: [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management)
+- Journal reviewer: [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
