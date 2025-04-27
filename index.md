@@ -27,7 +27,7 @@ My research specifically focuses on enhancing LLMs' context understanding capabi
 
 
 - [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
-  Guanzheng Chen*, Qilong Feng*, Jinjie Ni, Xin Li, Michael Qizhe Shieh
+  Guanzheng Chen\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh
   
   <div class="btn-links">
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
