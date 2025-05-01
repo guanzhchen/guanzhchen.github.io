@@ -24,21 +24,20 @@ My research is driven by the passion for advancing the edge intelligence of larg
 - ***Oct 2023:*** We release the [CLEX](https://arxiv.org/abs/2310.16450), a length extrapolation method that enables LLMs to access the context length up to 4x~8x the training length!
 
 
-### Preprint
 
-
-- [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
-  Guanzheng Chen\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh
-  
-  <div class="btn-links">
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/John-AI-Lab/RAPID" target="_blank" rel="noopener">Code</a>
-  </div>
 
 
 
 
 ### Publications
+
+- [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
+  Guanzheng Chen\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh.<br>
+   The Forty-Second International Conference on Machine Learning ([ICML'25](https://icml.cc/), ***Spotlight***)
+  <div class="btn-links">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/John-AI-Lab/RAPID" target="_blank" rel="noopener">Code</a>
+  </div>
 
 - [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](https://arxiv.org/abs/2502.13922)<br>
   **Guanzheng Chen**, Xin Li, Michael Qizhe Shieh, Lidong Bing.<br>
