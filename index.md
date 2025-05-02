@@ -33,7 +33,7 @@ My research is driven by the passion for advancing the edge intelligence of larg
 ### Publications
 
 - [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
-  Guanzheng Chen\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh.<br>
+  **Guanzheng Chen**\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh.<br>
    The Forty-Second International Conference on Machine Learning ([ICML'25](https://icml.cc/), ***Spotlight***)
 
   <div class="btn-links">
