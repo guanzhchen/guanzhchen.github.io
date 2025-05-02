@@ -18,6 +18,7 @@ My research is driven by the passion for advancing the edge intelligence of larg
 
 
 ### News
+- ***May 2025:*** [RAPID](https://arxiv.org/abs/2502.20330) has been accepted to ICML 2025 as Spotlight!
 - ***Feb 2025:*** We release the [LongPO](https://www.arxiv.org/pdf/2502.13922), a self-evolving long-context LLM training approach for both context extension and long-context alignment in one stage without external annotation.
 - ***Feb 2025:*** [LongPO](https://www.arxiv.org/pdf/2502.13922) has been accepted to ICLR 2025!
 - ***Jan 2024:*** [CLEX](https://arxiv.org/abs/2310.16450) has been accepted to ICLR 2024!
@@ -34,7 +35,7 @@ My research is driven by the passion for advancing the edge intelligence of larg
 - [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
   Guanzheng Chen\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh.<br>
    The Forty-Second International Conference on Machine Learning ([ICML'25](https://icml.cc/), ***Spotlight***)
-   
+
   <div class="btn-links">
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/John-AI-Lab/RAPID" target="_blank" rel="noopener">Code</a>
