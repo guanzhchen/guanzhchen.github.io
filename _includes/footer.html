@@ -1,7 +1,13 @@
-<h7>&copy~{{ site.time | date: '%Y' }} {{ site.owner.name }}. 
+<h7>&copy; <span id="js-current-year">{{ "now" | date: "%Y" }}</span> {{ site.owner.name }}.
   Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> with
- <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme.
+  <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme.
   <!-- Source code for this website can be found <a href="https://github.com/GuangLun2000/GuangLun2000.github.io" rel="nofollow">here</a>. -->
 </h7>
 
+<script>
+  (function () {
+    var el = document.getElementById("js-current-year");
+    if (el) el.textContent = String(new Date().getFullYear());
+  })();
+</script>
 
