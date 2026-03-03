@@ -4,13 +4,13 @@ layout: page
 
 ### About Me
 
-I am now a first-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/).
+I am now a second-year PhD candidate at [National University of Singapore](https://nus.edu.sg/) (NUS), supervised by Dr. [Michael Qizhe Shieh](https://michaelshieh.com/).
 <!-- second-year Master's student at [Sun Yat-sen University](https://www.sysu.edu.cn/) (SYSU), supervised by Dr. [Shangsong Liang](https://cse.sysu.edu.cn/content/4569). I also work closely with [Zaiqiao Meng](https://mengzaiqiao.github.io/) and [Fangyu Liu](https://fangyuliu.me/about.html).
 Previously, I completed my Bachelor's degree at [Chongqing University](https://www.cqu.edu.cn/) (CQU) in 2021. -->
 My research is driven by the passion for advancing the edge intelligence of large language models (LLMs). I am particularly focused on the paradigm shift [from deep to long learning](https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning), aiming to enhance LLM capabilities by learning effectively from substantial context. My recent work concentrates on improving LLMs' in-depth understanding of complex context, specifically targeting:
 
 - Effective and efficient long-context modeling;
-- Unified understanding of multimodal context.
+- Long context/memory agentic system.
 
 
 
@@ -18,6 +18,7 @@ My research is driven by the passion for advancing the edge intelligence of larg
 
 
 ### News
+- ***Jan 2026:*** [LongRLVR](https://openreview.net/forum?id=omVhYvyTPJ) has been accepted to ICLR 2026!
 - ***May 2025:*** [RAPID](https://arxiv.org/abs/2502.20330) has been accepted to ICML 2025 as Spotlight!
 - ***Feb 2025:*** We release the [LongPO](https://www.arxiv.org/pdf/2502.13922), a self-evolving long-context LLM training approach for both context extension and long-context alignment in one stage without external annotation.
 - ***Feb 2025:*** [LongPO](https://www.arxiv.org/pdf/2502.13922) has been accepted to ICLR 2025!
@@ -32,13 +33,22 @@ My research is driven by the passion for advancing the edge intelligence of larg
 
 ### Publications
 
+- [LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards](https://openreview.net/forum?id=omVhYvyTPJ)<br>
+  Guanzheng Chen, Michael Qizhe Shieh, Lidong Bing.<br>
+   The Fourteenth International Conference on Learning Representations ([ICLR'26](https://iclr.cc/))
+
+  <div class="btn-links">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://openreview.net/forum?id=omVhYvyTPJ" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/real-absolute-AI/LongRLVR" target="_blank" rel="noopener">Code</a>
+  </div>
+
 - [RAPID: Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/abs/2502.20330)<br>
   **Guanzheng Chen**\*, Qilong Feng\*, Jinjie Ni, Xin Li, Michael Qizhe Shieh.<br>
    The Forty-Second International Conference on Machine Learning ([ICML'25](https://icml.cc/), ***Spotlight***)
 
   <div class="btn-links">
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2502.20330" target="_blank" rel="noopener">PDF</a>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/John-AI-Lab/RAPID" target="_blank" rel="noopener">Code</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/real-absolute-AI/RAPID" target="_blank" rel="noopener">Code</a>
   </div>
 
 - [LongPO: Long Context Self-Evolution of Large Language Models through Short-to-Long Preference Optimization](https://arxiv.org/abs/2502.13922)<br>
